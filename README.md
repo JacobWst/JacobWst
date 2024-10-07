@@ -1,5 +1,8 @@
-# Versionhantering, DG084G
-Uppgiftften går ut på att lära sig versionhantering med github.
+# Moment 3 Versionhantering, DG084G
+Uppgiften går ut på att lära sig versionshantering, hur Github fungerar
 
 ## Om
-Jacob Vestman, 2024
+Jacob Vestman, HT2024
+
+### Sammanfattning
+
