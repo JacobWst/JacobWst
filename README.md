@@ -1,5 +1,7 @@
 # Moment 3 Versionhantering, DG084G
-## Om Jacob Vestman, HT2024
+## Om
+Jacob Vestman, HT2024
+jave2300@student.miun.se
 
 ### Sammanfattning
 Uppgiften går ut på att lära sig grunder till *versionshantering*, hur Github fungerar och att skapa en README.md-fil med markdown som ska publiceras.
