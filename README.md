@@ -19,4 +19,5 @@ Uppgiften går ut på att lära sig grunder till *versionshantering*, hur Github
 *git log
 **Fråga 3:** Beskriv hur du går tillväga för att ignorera att vissa filer eller kataloger att indexeras med Git?
 
-#### Slutsats Det har varit ett lärorikt moment speciellt med att lära sig lite hur github fungerar och hur viktigt versionshantering är vid utveckling av projekt där andra utvecklare kan använda samma kod.
+#### Slutsats
+Det har varit ett lärorikt moment speciellt med att lära sig lite hur github fungerar och hur viktigt versionshantering är vid utveckling av projekt där andra utvecklare kan använda samma kod.
