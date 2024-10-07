@@ -1,3 +1,5 @@
-Hejsan!
+# Versionhantering, DG084G
+Uppgiftften går ut på att lära sig versionhantering med github.
 
-Mitt namn är Jacob Vestman och jag läser Webbutveckling på Mittuniversitetet. Den här uppgiften till kursen går ut på att lära sig att versionhantera med github.
+## Om
+Jacob Vestman, 2024
