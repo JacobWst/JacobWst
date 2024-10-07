@@ -7,23 +7,17 @@ Uppgiften går ut på att lära sig grunder till *versionshantering*, hur Github
 #### Frågor som ska besvaras till uppgiften:
 
 **Fråga 1:** Förklara följande begrepp:
-*Local repository
-*Remote repository
-*Branch
+* Local repository
+* Remote repository
+* Branch
 
 **Fråga 2:** Beskriv följande kommandon:
-*git init
-*git status
-*git add
-*git commit
-*git push
-*git push
-*git init
-*git status
-*git add
-*git commit
-*git push
-*git log
+* git init
+* git status
+* git add
+* git commit
+* git push
+* git log
 
 **Fråga 3:** Beskriv hur du går tillväga för att ignorera att vissa filer eller kataloger att indexeras med Git?
 
