@@ -1,4 +1,4 @@
-# Moment 3 Versionhantering, DG084G
+# Moment 3 Versionshantering, DG084G
 Uppgiften går ut på att lära sig versionshantering, hur Github fungerar
 
 ## Om
